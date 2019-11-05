@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,TypographyDashes">
-    <string name="twitter_consumer_key">kvmMKgrVtSBoaoqQvTISkupcu</string> <!-- MAIN APP CONSUMER KEY -->
-    <string name="twitter_consumer_secret">Mk5dJYWKSj2nvzR5hnyR9do0PEaQb2jFgaz6WY1CMS86uL5iad</string> <!-- MAIN APP CONSUMER SECRET -->
-</resources>
